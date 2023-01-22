@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pgJyB+/xEojP5s3A4emL5hxa2HOhK3mONRcKyGksqiV/TSYsW49+BLYleYrFtskuEzo6IW/+0ipS9EZqXeTssw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\seleniumweb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oumas\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.support\\4.7.0\\selenium.support.4.7.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.webdriver.chromedriver\\109.0.5414.7400\\selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512"
+  ],
+  "logs": []
+}
