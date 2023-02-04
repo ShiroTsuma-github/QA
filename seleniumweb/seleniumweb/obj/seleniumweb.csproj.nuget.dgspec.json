@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\seleniumweb.csproj": {}
+    "H:\\Dokumenty\\GitHub\\QA\\seleniumweb\\seleniumweb\\seleniumweb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\seleniumweb.csproj": {
+    "H:\\Dokumenty\\GitHub\\QA\\seleniumweb\\seleniumweb\\seleniumweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\seleniumweb.csproj",
+        "projectUniqueName": "H:\\Dokumenty\\GitHub\\QA\\seleniumweb\\seleniumweb\\seleniumweb.csproj",
         "projectName": "seleniumweb",
-        "projectPath": "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\seleniumweb.csproj",
+        "projectPath": "H:\\Dokumenty\\GitHub\\QA\\seleniumweb\\seleniumweb\\seleniumweb.csproj",
         "packagesPath": "C:\\Users\\oumas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oumas\\source\\repos\\seleniumweb\\seleniumweb\\obj\\",
+        "outputPath": "H:\\Dokumenty\\GitHub\\QA\\seleniumweb\\seleniumweb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

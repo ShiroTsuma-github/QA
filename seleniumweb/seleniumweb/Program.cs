@@ -27,4 +27,5 @@ var price = driver.FindElement(By.ClassName("inventory_item_price")).Text;
 Console.WriteLine($"Price: {price}");
 Assert.IsTrue(price == "$29.99");
 Assert.IsNotNull(price);
+Console.ReadLine();
 driver.Quit();

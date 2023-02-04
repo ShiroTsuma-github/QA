@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ak39pVgDtGJzAPJkKUGUAEjj6655VJgI9CA4805VWZam5LdwDjqlMOd4YtEPigcQj8xh23CH2WVCYg4bLJpmVA==",
+  "success": true,
+  "projectFilePath": "H:\\Dokumenty\\GitHub\\QA\\PracaDomowa\\PracaDomowa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oumas\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.support\\4.8.0\\selenium.support.4.8.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.webdriver\\4.8.0\\selenium.webdriver.4.8.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\selenium.webdriver.chromedriver\\109.0.5414.7400\\selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512"
+  ],
+  "logs": []
+}
