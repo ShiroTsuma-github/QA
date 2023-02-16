@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaFY+XoxRgHwJUfH/wUT4UHyuzwsRI/HJ5YbsuQrALvO+k47p3c1N/mlgGqytbD9S8zPlRKvzRi1MiAQl4dvUg==",
+  "success": true,
+  "projectFilePath": "H:\\Dokumenty\\GitHub\\QA\\calculator_specflow\\CalculatorTests\\CalculatorTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oumas\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\gherkin\\6.0.0\\gherkin.6.0.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\specflow\\3.3.57\\specflow.3.3.57.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\specflow.nunit\\3.3.57\\specflow.nunit.3.3.57.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.3.57\\specflow.tools.msbuild.generation.3.3.57.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.threading.tasks.extensions\\4.4.0\\system.threading.tasks.extensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\oumas\\.nuget\\packages\\utf8json\\1.3.7\\utf8json.1.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

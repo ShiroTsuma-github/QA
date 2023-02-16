@@ -1,0 +1,6 @@
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\bin\Debug\SDP23.dll
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\bin\Debug\SDP23.pdb
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\obj\Debug\SDP23.csproj.AssemblyReference.cache
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\obj\Debug\SDP23.csproj.CoreCompileInputs.cache
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\obj\Debug\SDP23.dll
+C:\Users\oumas\Source\Repos\calculator_specflow\SDP23\obj\Debug\SDP23.pdb
